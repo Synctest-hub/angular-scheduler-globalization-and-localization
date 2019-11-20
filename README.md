@@ -62,6 +62,7 @@ loadCldr(
 ```
 
 4. You can notice the Scheduler displaying globalized date and time values in its UI, as shown in the following image, but the static text like Day, Week, Work Week and so on, are not changed as per the locale assigned to Scheduler.
+
 ![Globalization in Scheduler](globalize.png)
 
 ### Localization
@@ -97,7 +98,8 @@ L10n.load({
 });
 ```
 
-7. Now, you can notice the Scheduler displaying localized text as shown below. 
+7. Now, you can notice the Scheduler displaying localized text as shown below.
+
 ![Localization in Scheduler](localize.png) 
 
 8. You can refer the available locale keys from the following documentation link:
