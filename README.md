@@ -73,7 +73,7 @@ loadCldr(
 import { L10n } from '@syncfusion/ej2-base';
 ```
 
-6. Next, using the `load` function of L10n class, pass the appropriate locale words of `fr-CH` culture as follows,
+6. Next, using the `load` function of L10n class, pass the appropriate locale words of `fr-CH` culture as shown below,
 
 > NOTE: You can also pass the locale words of other cultures separated by a comma list.
 
@@ -89,7 +89,7 @@ L10n.load({
             'agenda': 'Ordre du jour'
         }
     },
-    'ar': {
+    'ar-AE': {
        'schedule': {
            ...
            ...
@@ -102,7 +102,7 @@ L10n.load({
 
 ![Localization in Scheduler](localize.png) 
 
-8. You can refer the available locale keys from the following documentation link:
+8. You can refer all the available locale keys from the following documentation link:
 https://ej2.syncfusion.com/angular/documentation/schedule/localization/?#localizing-the-static-scheduler-text
 
 ## Running on development server
