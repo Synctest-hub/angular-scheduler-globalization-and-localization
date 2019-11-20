@@ -97,8 +97,8 @@ L10n.load({
 });
 ```
 
-7. Now, you can notice the Scheduler displaying localized text as shown below.
-![Localization in Scheduler](localize.png)
+7. Now, you can notice the Scheduler displaying localized text as shown below. 
+![Localization in Scheduler](localize.png) 
 
 8. You can refer the available locale keys from the following documentation link:
 https://ej2.syncfusion.com/angular/documentation/schedule/localization/?#localizing-the-static-scheduler-text
