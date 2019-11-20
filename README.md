@@ -51,7 +51,7 @@ loadCldr(
     require('cldr-data/main/fr-CH/timeZoneNames.json'));
 ```
 
-3. Now, you can set the `locale` property to Scheduler and assign the required culture code(`fr-CH) to it.
+3. Now, you can set the `locale` property to Scheduler and assign the required culture code `fr-CH` to it.
 
 ```
   <ejs-schedule 
