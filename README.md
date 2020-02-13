@@ -12,8 +12,8 @@ To run this application, you need to first clone the `angular-scheduler-globaliz
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone https://github.com/SyncfusionSamples/angular-scheduler-globalization-and-localization grid-example
-cd grid-example
+git clone https://github.com/SyncfusionSamples/angular-scheduler-globalization-and-localization scheduler-example
+cd scheduler-example
 ```
 
 ## Installing
